@@ -64,6 +64,10 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
 ```
+```
+#Source
+https://github.com/SreeRam1726/Open-Jacson-Networks
+```
 ## Output
 <img width="776" height="427" alt="image" src="https://github.com/user-attachments/assets/91843a82-8abb-40c9-a5a5-5da21d1bdcd5" />
 
